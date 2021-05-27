@@ -1,0 +1,16 @@
+.collection-item {
+    /*display: flex;*/
+    /*justify-content: space-between;*/
+}
+
+.material-icons {
+    cursor: pointer;
+}
+
+.delete:hover {
+    color: #c70000 !important;
+}
+
+.like:hover {
+    color: #3b5998 !important;
+}
